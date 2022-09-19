@@ -26,7 +26,40 @@ ul{
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
+   
 }
+
+
+
+
+.second{
+    display: flex;
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .footer{
