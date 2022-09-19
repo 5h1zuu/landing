@@ -87,10 +87,30 @@ li{
 }
 
 .sixth{
-    
+    display: flex;
     background-color: beige;
+    flex-direction: column;
+    padding: 25px;
+    
+    
 
 }
+
+
+.cont{
+
+}
+
+
+.but{
+    
+    align-self: flex-end;
+    
+}
+
+
+
+
 
 
 
