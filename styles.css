@@ -62,7 +62,7 @@ li{
 
 .second{
     display: flex;
-    background-color: aliceblue;
+    background-color:#e982ab ;
     justify-content: space-between;
     padding: 50px;
 }
@@ -88,16 +88,27 @@ li{
 
 .sixth{
     display: flex;
-    background-color: beige;
+    background-color: #e982ab;
     flex-direction: column;
     padding: 25px;
+    
+    
     
     
 
 }
 
 
+.out{
+
+}
+
+
+
+
 .cont{
+    
+    
 
 }
 
@@ -151,5 +162,8 @@ li{
 }
 
 button{
+    
+    
     background-color: aqua;
+
 }
