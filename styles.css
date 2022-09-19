@@ -14,20 +14,34 @@ body{
     display: flex;
     background-color: black;
     color: white;
-    justify-content: center;
     align-items: center;
-    
-    
 }
 
+.left{
+    display: flex;
+    justify-content: flex-start;
+}
 
+.right{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    align-self: center;
+}
 
 ul{
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
-   
+    align-items: center;
 }
+
+
+
+
+
+
+
+
+
 
 .n, .w, .bw{
     width: 400px;
@@ -55,7 +69,9 @@ ul{
 }
 
 
-
+.fifth{
+    background-color: blueviolet;
+}
 
 
 
