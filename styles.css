@@ -64,6 +64,7 @@ li{
     display: flex;
     background-color: aliceblue;
     justify-content: space-between;
+    padding: 50px;
 }
 
 
@@ -82,6 +83,7 @@ li{
 
 .fifth{
     background-color: blueviolet;
+    text-align: center;
 }
 
 .sixth{
@@ -105,9 +107,10 @@ li{
 
 
 .card{
+   
     background-color: azure;
     border-radius: 15px;
-    width: auto;
+    width: 400px;
     height: 600px;
 }
 
