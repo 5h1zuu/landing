@@ -65,6 +65,7 @@ li{
     background-color:#e982ab ;
     justify-content: space-between;
     padding: 50px;
+    font-size: 25px;
 }
 
 
@@ -84,6 +85,7 @@ li{
 .fifth{
     background-color: blueviolet;
     text-align: center;
+    font-size: 20px;
 }
 
 .sixth{
@@ -109,6 +111,7 @@ li{
 
 .cont{
     margin-right: 1000px;
+    font-size: 15px;
 
 }
 
@@ -134,7 +137,7 @@ li{
 
 
 .card{
-   
+    border-style: solid;
     background-color: azure;
     border-radius: 15px;
     width: 400px;
@@ -156,8 +159,8 @@ li{
 }
 
 button{
-    
-    
+    padding: 15px;
+    border-radius: 15px;
     background-color: aqua;
 
 }
