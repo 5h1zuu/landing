@@ -69,9 +69,19 @@ li{
 }
 
 
+.siu{
+    box-shadow: 20px 20px 50px black;
+
+}
+
+
+
+
 .third{
     text-align: center;
     background-color: blueviolet;
+    border-color: rgb(161, 90, 228);
+    border-style: solid;
 }
 
 
@@ -86,6 +96,8 @@ li{
     background-color: blueviolet;
     text-align: center;
     font-size: 20px;
+    border-color: rgb(161, 90, 228);
+    border-style: solid;
 }
 
 .sixth{
@@ -93,6 +105,7 @@ li{
     background-color: #e982ab;
     flex-direction: column;
     padding: 25px;
+   
     
     
     
@@ -106,6 +119,9 @@ li{
     justify-content: center;
     align-items: center;
     background-color: hotpink;
+    border-radius: 15px;
+    padding: 15px;
+    border-style: solid;
 
 }
 
@@ -163,4 +179,10 @@ button{
     border-radius: 15px;
     background-color: aqua;
 
+}
+
+
+
+*{
+    font-family: 'Courier New', Courier, monospace
 }
