@@ -87,7 +87,9 @@ li{
 }
 
 .sixth{
+    
     background-color: beige;
+
 }
 
 
@@ -126,4 +128,8 @@ li{
     transform: scale(1.03);
     transition: all 1s ease;
 
+}
+
+button{
+    background-color: aqua;
 }
