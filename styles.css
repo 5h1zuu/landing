@@ -29,7 +29,10 @@ ul{
    
 }
 
-
+.n, .w, .bw{
+    width: 400px;
+    height: auto;
+}
 
 
 .second{
@@ -45,7 +48,11 @@ ul{
 }
 
 
-
+.four{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
 
 
 
