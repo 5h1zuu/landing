@@ -94,34 +94,28 @@ li{
     
     
     
-    
 
 }
 
 
 .out{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: hotpink;
 
 }
-
-
-
 
 .cont{
-    
-    
+    margin-right: 1000px;
 
 }
-
 
 .but{
-    
-    align-self: flex-end;
-    
+   
+
 }
-
-
-
-
 
 
 
