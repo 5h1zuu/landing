@@ -27,6 +27,7 @@ ul{
 
 
 .footer{
-    display: flex;
     background-color: black;
+    color:aliceblue;
+    margin-top: auto;
 }
