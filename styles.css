@@ -39,6 +39,10 @@ ul{
 }
 
 
+.third{
+    text-align: center;
+    background-color: blueviolet;
+}
 
 
 
@@ -58,12 +62,14 @@ ul{
 
 
 
-
-
+.sixth{
+    background-color: beige;
+}
 
 
 
 .footer{
+
     background-color: black;
     color:aliceblue;
     margin-top: auto;
