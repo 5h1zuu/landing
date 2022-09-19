@@ -35,6 +35,7 @@ ul{
 .second{
     display: flex;
     background-color: aliceblue;
+    justify-content: space-between;
 }
 
 
