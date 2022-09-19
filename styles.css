@@ -6,8 +6,15 @@
 
 
 body{
+    display: flex;
+    flex-direction: column;
     background-image: url("images/serious.gif");
     background-repeat: no-repeat;
     background-size:cover;
 
+}
+
+.header{
+    background-color: black;
+    color: white
 }
