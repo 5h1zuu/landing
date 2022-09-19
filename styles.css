@@ -21,6 +21,7 @@ body{
 .left{
     display: flex;
     justify-content: flex-start;
+    color: blueviolet;
 }
 
 .right{
@@ -30,6 +31,11 @@ body{
     align-self: center;
     
 }
+
+a:link, a:visited{
+    color:blueviolet
+}
+
 
 ul{
     display: flex;
